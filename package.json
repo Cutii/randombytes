@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/crypto-browserify/randombytes",
   "browser": "browser.js",
+  "react-native": "index.js",
   "devDependencies": {
     "phantomjs": "^1.9.9",
     "standard": "^3.3.0",
